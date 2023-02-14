@@ -45,4 +45,4 @@ def vernam_cipher(text, key):
 
 
 if __name__ == "__main__":
-    print(vernam_cipher("gotohell", "harama"))
+    print(vernam_cipher("wearediscovered", "deceptive"))
